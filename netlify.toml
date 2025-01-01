@@ -1,0 +1,7 @@
+[build]
+  functions = "functions"
+  publish = "public"
+
+[dev]
+  functions = "functions"
+  port = 5000
